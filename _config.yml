@@ -3,8 +3,8 @@ email: abhilash@panigrahi.dev
 description: >-
   Notes, thoughts, and things I've learned.
 author: Abhilash Panigrahi
-url: "https://leo237.github.io"
-baseurl: "/blog"
+url: "https://blog.panigrahi.dev"
+baseurl: ""
 github_username: leo237
 
 theme: minima
