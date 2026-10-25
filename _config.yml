@@ -1,0 +1,23 @@
+title: "Abhilash's blog"
+email: abhilash@panigrahi.dev
+description: >-
+  Notes, thoughts, and things I've learned.
+author: Abhilash Panigrahi
+url: "https://leo237.github.io"
+baseurl: "/blog"
+github_username: leo237
+
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+permalink: /:year/:month/:day/:title/
+timezone: America/Los_Angeles
+
+exclude:
+  - .jekyll-cache/
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - README.md
